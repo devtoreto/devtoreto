@@ -17,4 +17,4 @@ You can click the Preview link to take a look at your changes.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-https://forthebadge.com/badges/not-a-bug-a-feature.svg
+!(https://forthebadge.com/badges/not-a-bug-a-feature.svg)
